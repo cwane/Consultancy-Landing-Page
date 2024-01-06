@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Link to view project (https://consultancy-landing-page-one.vercel.app/)
 
 In the project directory, you can run:
 
